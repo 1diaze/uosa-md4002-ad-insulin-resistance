@@ -1,0 +1,2 @@
+"formula","term_of_interest","id_var","beta_full","se_full","n_obs","n_subjects","AIC","BIC","logLik","sigma","R2_marginal","R2_conditional","ICC","RMSE","dfbetas_threshold","likelihood_threshold","aic_threshold"
+"ABETA_clean ~ VISCODEnum_z * METSIR_z + (VISCODEnum_z | RID)","METSIR_z","RID",60.955009569143,12.7098696719162,1779,877,24501.8898831413,24545.7603366426,-12242.9449415706,106.96587184532,0.0276790790659505,0.925222819331712,0.923094135836906,74.8520934995962,0.0675352013453174,9.48772903678115,-2
